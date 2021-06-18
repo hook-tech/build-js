@@ -1,3 +1,5 @@
+# DEPRECATED - imported into @hook-tech/console directly
+
 # Build-JS
 
 This is Hook's toolset to build JavaScript and Typescript projects. It serves (roughly) the same purpose as react-scripts and is just as opinionated, but in a different way.
